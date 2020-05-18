@@ -1,7 +1,7 @@
  #include <stdio.h>
  #include <stdlib.h>
  #include<time.h>
- #define ANCHO 30
+ #define ANCHO 10
 
  int main(){
    int arr[ANCHO];

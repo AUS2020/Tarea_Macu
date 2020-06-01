@@ -23,9 +23,8 @@ int main(void){
       printf("Debe ingresar un numero positivo");
       i--;
     }
-
   }
-
+  return 0;
 }
 
 int convertir(int d, int hrs){

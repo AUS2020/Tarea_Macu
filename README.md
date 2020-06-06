@@ -1,2 +1,21 @@
 # Tarea_Macu
-Este repositorio tiene ejemplos simples de programación en C :heart:
+Este repositorio contiene las practicas del taller de programacion :pencil2:
+
+#CONTENIDO:
+
+Macros
+Bucles
+Arrays
+Funciones
+
+
+
+#MACROS
+
+NIVEL 1
+
+
+
+
+
+
